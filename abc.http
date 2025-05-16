@@ -1,0 +1,8 @@
+
+
+
+# 开始生成请求
+GET http://localhost:5051/generate-qrcodes Http/1.1
+Content-Type: application/json
+
+# POST 测试请求体
